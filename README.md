@@ -1,6 +1,3 @@
-Here is a concise description for your Monte Carlo Methods repository, suitable for a GitHub README file:
-
----
 
 # Monte-Carlo-Methods
 
@@ -10,8 +7,8 @@ This repository contains implementations of various Monte Carlo methods used in 
 - **Percolation**: Models and simulations of percolation theory.
 - **Ising Model**: Implementation and analysis of the Ising model in statistical physics.
 - **Potts Model**: Simulations of the Potts model.
-- **XY Model**: Implementations of the XY model.
-- **Sign Problem**: Exploration and solutions for the sign problem in Monte Carlo simulations.
+- **XY Model**: Implementations of the XY model. (in progress)
+- **Sign Problem**: Exploration and solutions for the sign problem in Monte Carlo simulations. (in progress)
 
 ## Statistical Mechanics
 
@@ -42,4 +39,4 @@ This project is licensed under the Apache-2.0 License - see the [LICENSE](LICENS
 
 ---
 
-This is my first repository. 
+This is my first repository. I hope you find it useful. 
